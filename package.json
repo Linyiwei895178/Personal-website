@@ -1,0 +1,21 @@
+{
+  "name": "ai-debate-arena",
+  "version": "1.0.0",
+  "description": "A complete local AI debate app with OpenAI-compatible model support and offline simulation.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": [
+    "ai",
+    "debate",
+    "openai",
+    "local-app"
+  ],
+  "author": "",
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  }
+}
